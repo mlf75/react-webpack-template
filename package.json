@@ -1,0 +1,11 @@
+{
+  "name": "react-webpack-template",
+  "version": "1.0.0",
+  "description": "海数前端 react + webpack 打包项目通用模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
